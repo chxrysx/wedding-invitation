@@ -2,42 +2,42 @@
 
 @font-face {
   font-family: 'Silver South';
-  src: url('../assets/fonts/silver-south.ttf') format('truetype');
+  src: url('./assets/fonts/silver-south.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Minerva Modern';
-  src: url('../assets/fonts/minerva-modern-regular.otf') format('truetype');
+  src: url('./assets/fonts/minerva-modern-regular.otf') format('truetype');
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Minerva Modern';
-  src: url('../assets/fonts/minerva-modern-bold.otf') format('opentype');
+  src: url('./assets/fonts/minerva-modern-bold.otf') format('opentype');
   font-weight: 700;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Minerva Modern';
-  src: url('../assets/fonts/minerva-modern-black.otf') format('opentype');
+  src: url('./assets/fonts/minerva-modern-black.otf') format('opentype');
   font-weight: 900; /* Commonly used value for black weight */
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Chinese Cute';
-  src: url('../assets/fonts/chinese-cute-AZPPT_1_1436212_19-Regular.ttf') format('truetype');
+  src: url('./assets/fonts/chinese-cute-AZPPT_1_1436212_19-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Chinese Formal';
-  src: url('../assets/fonts/chinese-formal-FZKai-Z03-Regular.ttf') format('truetype');
+  src: url('./assets/fonts/chinese-formal-FZKai-Z03-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
